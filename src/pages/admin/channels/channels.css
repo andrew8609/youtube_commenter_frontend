@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.root {
+    display: flex;
+    margin-top: 60px;
+}
+
+td, th {
+    padding: 10px;
+}

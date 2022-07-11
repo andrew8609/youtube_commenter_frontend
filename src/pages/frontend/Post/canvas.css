@@ -1,0 +1,20 @@
+#ag-canvas {
+  height: 100%;
+}
+
+.ag-item {
+  height: 100%;
+  width: 100%;
+}
+
+#ag-resize-container {
+  background-image: none!important;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  height: center;
+}
+
+#ag-resize-container .ag-item {
+  border: none!important;
+}

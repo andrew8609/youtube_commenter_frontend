@@ -1,0 +1,4 @@
+{
+    "get_users_list": "/user/",
+    "delete_user": "/user"
+}
